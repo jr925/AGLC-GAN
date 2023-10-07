@@ -5,8 +5,13 @@ Python notebook containing Pytorch implementation of AGLC-GAN.
 
 ## Model Architecture
 
+### Cycle-GAN
 ![App Screenshot](samples/mymodel_cycle.png)
+
+### Discriminator
 ![App Screenshot](samples/mymodel_discriminator.png)
+
+### Generator
 ![App Screenshot](samples/mymodel_generator.png)
 
 ## Dependencies
